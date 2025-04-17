@@ -1,0 +1,12 @@
+# Ignorar carpetas y archivos pesados
+modelo_bert_final/
+*.safetensors
+
+# Ignorar archivos temporales / internos
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+*.csv
+*.pt
+*.bin
